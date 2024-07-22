@@ -46,7 +46,7 @@
     
     o	Run the script:
     
-            python weather_data_aggregator.py
+              python weather_data_aggregator.py
           
         	  Enter the city name when prompted
 
