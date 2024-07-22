@@ -64,6 +64,8 @@
       
       **Data Fetch and Analysis** 
       ![Data_analysis](https://github.com/SonaGaud/Weather-Data-Aggregator-and-Analyzer/raw/main/example_images/Data_analysis.png)
+        <img src="https://github.com/SonaGaud/Weather-Data-Aggregator-and-Analyzer/raw/main/example_images/Data_analysis.png" alt="Data_analysis" style="width:600px;"/>
+
       
       **Date Range Analysis**
       ![Date_range_analysis](https://github.com/SonaGaud/Weather-Data-Aggregator-and-Analyzer/raw/main/example_images/Date_range_analysis.png))
